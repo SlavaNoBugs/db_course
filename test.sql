@@ -142,3 +142,4 @@ END
 FROM hobby
 --10
 SELECT * FROM hobby ORDER BY risk DESC LIMIT 3;
+
